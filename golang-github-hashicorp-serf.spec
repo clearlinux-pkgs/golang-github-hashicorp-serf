@@ -4,7 +4,7 @@
 #
 Name     : golang-github-hashicorp-serf
 Version  : 44945ab711fb48f1cee51d248568487b938c178d
-Release  : 1
+Release  : 2
 URL      : https://github.com/hashicorp/serf/archive/44945ab711fb48f1cee51d248568487b938c178d.tar.gz
 Source0  : https://github.com/hashicorp/serf/archive/44945ab711fb48f1cee51d248568487b938c178d.tar.gz
 Summary  : No detailed summary available
